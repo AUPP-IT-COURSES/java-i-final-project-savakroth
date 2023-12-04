@@ -1,0 +1,4 @@
+Apple Juice,5.0,48
+Beef Sandwich,4.0,1
+Burger,5.0,97
+Chicken Nuggets,3.0,80
